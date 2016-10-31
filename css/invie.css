@@ -272,3 +272,11 @@ input:focus, textarea:focus {
 .tabla {
   margin: 50px 0;
 }
+
+
+@media screen and (max-width: 800px){
+.contenedor{
+    width:auto;
+    max-width: 800px;
+}
+}
