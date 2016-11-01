@@ -276,7 +276,7 @@ input:focus, textarea:focus {
 
 @media screen and (max-width: 800px){
 .contenedor{
-    background: blue;
+    background: red;
     width:auto;
     max-width: 800px;
     }
